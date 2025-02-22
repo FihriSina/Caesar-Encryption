@@ -49,6 +49,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - This project was created as part of my learning journey with **FreeCodeCamp**. The tutorial helped me understand how basic encryption algorithms work in Python.
-
-```
-
