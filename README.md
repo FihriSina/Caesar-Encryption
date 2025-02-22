@@ -105,6 +105,3 @@ Bu proje açık kaynaklıdır ve [MIT Lisansı](LICENSE) altında yayınlanmakta
 ## Teşekkürler
 
 - Bu proje, **FreeCodeCamp** ile öğrenim yolculuğumun bir parçası olarak oluşturulmuştur. Tutorial, temel şifreleme algoritmalarının Python'da nasıl çalıştığını anlamama yardımcı oldu.
-
-
-Bu Türkçe README, projenizi paylaşacak olan kullanıcılar için anlaşılır ve düzenli bir açıklama sağlar. Yardımcı olabileceğim başka bir şey varsa söyleyebilirsiniz!
