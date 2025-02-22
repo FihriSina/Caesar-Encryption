@@ -87,7 +87,7 @@ caesar(text, shift)
 1. Bu repo'yu klonlayın:
 
    ```bash
-   git clone https://github.com/kullanici-adi/caesar-cipher.git
+   git clone https://github.com/FihriSina/caesar-cipher.git
    ```
 
 2. Python ile script'i çalıştırın:
@@ -106,10 +106,5 @@ Bu proje açık kaynaklıdır ve [MIT Lisansı](LICENSE) altında yayınlanmakta
 
 - Bu proje, **FreeCodeCamp** ile öğrenim yolculuğumun bir parçası olarak oluşturulmuştur. Tutorial, temel şifreleme algoritmalarının Python'da nasıl çalıştığını anlamama yardımcı oldu.
 
-
-
-### Notlar:
-1. `kullanici-adi` kısmını kendi GitHub kullanıcı adınızla değiştirin.
-2. Projenize özgü eklemeler yapabilirsiniz.
 
 Bu Türkçe README, projenizi paylaşacak olan kullanıcılar için anlaşılır ve düzenli bir açıklama sağlar. Yardımcı olabileceğim başka bir şey varsa söyleyebilirsiniz!
