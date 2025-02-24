@@ -37,7 +37,7 @@ caesar(text, shift)
 2. Run the script with Python:
 
    ```bash
-   python caesar_cipher.py
+   python Ceaser.py
    ```
 
 3. Modify the `text` and `shift` variables to test different inputs and shifts.
@@ -93,7 +93,7 @@ caesar(text, shift)
 2. Python ile script'i çalıştırın:
 
    ```bash
-   python caesar_cipher.py
+   python Ceaser.py
    ```
 
 3. Farklı girişler ve kaydırmalar test etmek için `text` ve `shift` değişkenlerini değiştirebilirsiniz.
